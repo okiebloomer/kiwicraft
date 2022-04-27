@@ -4,5 +4,5 @@
 What the server offers:
 <ul list style="⟣"><li><b>⟣</b> Magic, spellcasting, new items
 <li> <b>⟣</b> RPG-like skill earning system
-  <li> <b>⟣</b> Vast new biomes, crops and more</ul?
+  <li> <b>⟣</b> Vast new biomes, crops and more</ul>
 
