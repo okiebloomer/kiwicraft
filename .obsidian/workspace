@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "d843efa9cf399e27",
+    "type": "split",
+    "children": [
+      {
+        "id": "39d47c2415495803",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54984fe0c7f14697",
+    "type": "split",
+    "children": [
+      {
+        "id": "1361ac038ea98123",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9a16ea7bd6eede2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "64d61a0d7d663784",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bce6dfa96ca9a32a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f5d06b0adb38c62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cf285fd11e263cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "39d47c2415495803",
+  "lastOpenFiles": [
+    "README.md",
+    "kiwicraft.png"
+  ]
+}
