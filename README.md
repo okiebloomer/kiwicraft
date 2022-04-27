@@ -1,4 +1,4 @@
-<p align="center"> <img src="/kiwicraft.png"></p>
+<p align="center"> <img src="/kiwicraft.png">
 <h1 align="center">Welcome to Kiwicraft!</h1>Kiwicraft is a server that I made for myself and my loved ones to enjoy a modded Minecraft experience.</p>
 
 What the server offers:
