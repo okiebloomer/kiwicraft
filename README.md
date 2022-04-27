@@ -1,6 +1,6 @@
 <p align="center"> ![kiwicraft](/kiwicraft.png)
 # Welcome to Kiwicraft!
-Kiwicraft is a server that I made for myself and my loved ones to enjoy a modded Minecraft experience.
+Kiwicraft is a server that I made for myself and my loved ones to enjoy a modded Minecraft experience.</p>
 
 What the server offers:
 - **⟣** Magic, spellcasting, new items
