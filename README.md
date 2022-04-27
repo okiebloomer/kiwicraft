@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to Kiwicraft!</h1>Kiwicraft is a server that I made for myself and my loved ones to enjoy a modded Minecraft experience.</p>
 
 What the server offers:
-- **⟣** Magic, spellcasting, new items
-- **⟣** RPG-like skill earning system
-- **⟣** Vast new biomes, crops and more
+<ul><li><b>⟣</b> Magic, spellcasting, new items
+<li> <b>⟣</b> RPG-like skill earning system
+  <li> <b>⟣</b> Vast new biomes, crops and more</ul?
 
